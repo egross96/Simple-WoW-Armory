@@ -1,3 +1,11 @@
-# 311WebApp
-3 tier web application i created for a project at my university.
-Makes use of HTML, CSS, PHP and limited JavaScript. 
+#Text based character creator
+<br>
+Makes use of the following:
+<br>
+HTML
+<br>
+CSS
+<br>
+PHP
+<br>
+Javascript
